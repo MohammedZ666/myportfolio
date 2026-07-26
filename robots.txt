@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://MohammedZ666.github.io/sitemap.xml
+Sitemap: https://mohammedz666.github.io/sitemap.xml
